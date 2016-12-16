@@ -1,0 +1,1014 @@
+Socket Listener Started successfully
+[]
+yCount: 0
+gCount: 0
+nCount: 0
+nextLocation: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G
+
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+YFrequency Counter3
+GFrequency Counter31
+
+locationList: []
+curLocation: B
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G4121112222
+
+locationList: []
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G1111131133
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y1
+G3214222113
+
+locationList: [G]
+curLocation: B
+respMessage: Y
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G3224522222
+
+locationList: []
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G2211531112
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G3131324132
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G3113123
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y4
+G2422134331
+
+locationList: [G]
+curLocation: B
+respMessage: Y
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G141531
+
+locationList: []
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G113111131
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G311311
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y1
+G1225314
+
+locationList: [G]
+curLocation: B
+respMessage: Y
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y13
+G1423514
+
+locationList: []
+curLocation: B
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G321221121
+
+locationList: []
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G2212122211
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G2211112311
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G3111
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G1421112131
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y11
+G3412311
+
+locationList: [G]
+curLocation: B
+respMessage: Y
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G111121
+
+locationList: []
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y11
+G12111241
+
+locationList: [G]
+curLocation: B
+respMessage: Y
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G21111
+
+locationList: []
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y3
+G11111231
+
+locationList: [G]
+curLocation: B
+respMessage: Y
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G22311113
+
+locationList: []
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G1121221111
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G211211112
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G2111132112
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G1122113312
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y3
+G111212111
+
+locationList: [G]
+curLocation: B
+respMessage: Y
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y32
+G112211
+
+locationList: []
+curLocation: B
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y23233
+G12521222
+
+locationList: []
+curLocation: B
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y1
+G1112121211
+
+locationList: []
+curLocation: B
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y3
+G6431331423
+
+locationList: []
+curLocation: B
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G3316311132
+
+locationList: []
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G245333431
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y11
+G252111
+
+locationList: [G]
+curLocation: B
+respMessage: Y
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G111
+
+locationList: []
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y1
+G263232222
+
+locationList: [G]
+curLocation: B
+respMessage: Y
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y4
+G12332111
+
+locationList: []
+curLocation: B
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G131431132
+
+locationList: []
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y13
+G2312112
+
+locationList: [G]
+curLocation: B
+respMessage: Y
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G1111
+
+locationList: []
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y1
+G1111
+
+locationList: [G]
+curLocation: B
+respMessage: Y
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y3
+G1253133
+
+locationList: []
+curLocation: B
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G222212133
+
+locationList: []
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G312511211
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G1111112121
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G1111211221
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y22
+G1112112221
+
+locationList: [G]
+curLocation: B
+respMessage: Y
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G1211212332
+
+locationList: []
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y2
+G1121111123
+
+locationList: [G]
+curLocation: B
+respMessage: Y
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y11
+G132212111
+
+locationList: []
+curLocation: B
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y3
+G311141123
+
+locationList: []
+curLocation: B
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y14
+G1213111224
+
+locationList: []
+curLocation: B
+respMessage: null
+[/Users/yliu12/Desktop/ArduinoLogger/LOG_BY_SECOND.log, /Users/yliu12/Desktop/ArduinoLogger/LOG_BY_SECOND1.log]
+Flie ：LOG_BY_SECOND.log
+N
+B
+G
+G
+B
+G
+G
+G
+G
+B
+G
+G
+G
+B
+B
+G
+G
+G
+G
+G
+B
+G
+B
+G
+B
+G
+G
+G
+G
+G
+yCount: 0
+gCount: 7
+nCount: 0
+nextLocation: G
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G21121111
+
+locationList: []
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G2211111112
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G1111121122
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G224211121
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y22
+G1121111
+
+locationList: [G]
+curLocation: B
+respMessage: Y
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y111
+G1121211
+
+locationList: []
+curLocation: B
+respMessage: G
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y31232
+G411611
+
+locationList: []
+curLocation: B
+respMessage: G
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y2123
+G211211
+
+locationList: []
+curLocation: B
+respMessage: G
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G11122
+
+locationList: []
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G312151
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G4222233434
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G3325231313
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G1222331121
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y1111
+G11111
+
+locationList: [G]
+curLocation: B
+respMessage: Y
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y343214
+G1211131211
+
+locationList: []
+curLocation: B
+respMessage: G
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y15131
+G111323245
+
+locationList: []
+curLocation: B
+respMessage: G
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y231
+G545674665
+
+locationList: []
+curLocation: B
+respMessage: G
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y1
+G4234345478
+
+locationList: []
+curLocation: B
+respMessage: G
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G4444332332
+
+locationList: []
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G1114113112
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G211223133
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G211113
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G222311
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G363511
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y31
+G22511
+
+locationList: [G]
+curLocation: B
+respMessage: Y
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G12331
+
+locationList: []
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G
+
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y12
+G111
+
+locationList: [G]
+curLocation: B
+respMessage: Y
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y12
+G14
+
+locationList: []
+curLocation: B
+respMessage: G
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G
+
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y2
+G6
+
+locationList: []
+curLocation: B
+respMessage: G
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G
+
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G
+
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G14121211
+
+locationList: []
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y2
+G2512
+
+locationList: [G]
+curLocation: B
+respMessage: Y
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y2142
+G1142
+
+locationList: []
+curLocation: B
+respMessage: G
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y34136
+G321123
+
+locationList: []
+curLocation: B
+respMessage: G
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y1113
+G31212211
+
+locationList: []
+curLocation: B
+respMessage: G
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y2223
+G1221333222
+
+locationList: []
+curLocation: B
+respMessage: G
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y221
+G2111122
+
+locationList: []
+curLocation: B
+respMessage: G
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y1254
+G1122221123
+
+locationList: []
+curLocation: B
+respMessage: G
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y24
+G1122221223
+
+locationList: []
+curLocation: B
+respMessage: G
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G4336433465
+
+locationList: []
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y11
+G8776472233
+
+locationList: [G]
+curLocation: B
+respMessage: Y
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y1
+G462463252
+
+locationList: []
+curLocation: B
+respMessage: G
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y2313
+G54221244
+
+locationList: []
+curLocation: B
+respMessage: G
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G211113212
+
+locationList: []
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y212
+G11111
+
+locationList: [G]
+curLocation: B
+respMessage: Y
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y1
+G31221111
+
+locationList: []
+curLocation: B
+respMessage: G
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G11111
+
+locationList: []
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G121112
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G11121
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G143111
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G211226
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G1141111
+
+locationList: [G]
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y11
+G111
+
+locationList: [G]
+curLocation: B
+respMessage: Y
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G11111133
+
+locationList: []
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y11
+G13421
+
+locationList: [G]
+curLocation: B
+respMessage: Y
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y11
+G111222
+
+locationList: []
+curLocation: B
+respMessage: G
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y14
+G111111
+
+locationList: []
+curLocation: B
+respMessage: G
+[/Users/yliu12/Desktop/ArduinoLogger/LOG_BY_SECOND.log, /Users/yliu12/Desktop/ArduinoLogger/LOG_BY_SECOND1.log, /Users/yliu12/Desktop/ArduinoLogger/LOG_BY_SECOND2.log, /Users/yliu12/Desktop/ArduinoLogger/LOG_BY_SECOND3.log]
+Flie ：LOG_BY_SECOND.log
+N
+B
+G
+G
+B
+G
+G
+G
+G
+B
+G
+G
+G
+B
+B
+G
+G
+G
+G
+G
+B
+G
+B
+G
+B
+G
+G
+G
+G
+G
+Flie ：LOG_BY_SECOND1.log
+B
+B
+B
+B
+B
+G
+G
+B
+G
+B
+B
+G
+B
+G
+B
+B
+G
+G
+G
+G
+B
+G
+B
+B
+B
+B
+G
+G
+G
+G
+Flie ：LOG_BY_SECOND2.log
+B
+B
+B
+B
+G
+G
+G
+G
+G
+B
+B
+B
+B
+B
+G
+G
+G
+G
+G
+G
+B
+G
+N
+B
+B
+N
+B
+N
+N
+G
+yCount: 0
+gCount: 17
+nCount: 2
+nextLocation: G
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y14
+G11121111
+
+locationList: []
+curLocation: B
+respMessage: G
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y111
+G222432111
+
+locationList: []
+curLocation: B
+respMessage: G
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G112211
+
+locationList: []
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y22
+G111132
+
+locationList: [G]
+curLocation: B
+respMessage: Y
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G2311322113
+
+locationList: []
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y2322
+G1214223
+
+locationList: [G]
+curLocation: B
+respMessage: Y
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y1322
+G11211222
+
+locationList: []
+curLocation: B
+respMessage: G
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y21
+G133221321
+
+locationList: []
+curLocation: B
+respMessage: G
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y
+G2121212221
+
+locationList: []
+curLocation: G
+respMessage: null
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y14
+G2121121216
+
+locationList: [G]
+curLocation: B
+respMessage: Y
+++++++++++++++++++++++++++++++++StartNewMessage++++++++++++++++++++++++++++++++
+Y414
+G1223222
+
+locationList: []
+curLocation: B
+respMessage: G
